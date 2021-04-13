@@ -18,9 +18,9 @@ class MiNav extends HTMLElement {
       </a>
 
        <a href="historial.html">
-        <span class="material-icons">
-         history
-         </span>
+       <span class="material-icons">
+      watch_later
+        </span>
         Historial
       </a>
       
