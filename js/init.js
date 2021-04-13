@@ -1,10 +1,9 @@
 // @ts-ignore
 firebase.initializeApp({
-  apiKey: "AIzaSyAsANp13geFjjSJh1WuyDtHoDCObsVPgOo",
-    authDomain: "luisefiot-c6ad4.firebaseapp.com",
-    projectId: "luisefiot-c6ad4",
-    storageBucket: "luisefiot-c6ad4.appspot.com",
-    messagingSenderId: "1025595939091",
-    appId: "1:1025595939091:web:c608449e5cf1a66c6d62e6"
-
+  apiKey: "AIzaSyDr4xlb0Jd5-Pp2hcaCw2UUaZvoC2UmaLw",
+    authDomain: "angelpereziot-b1ce5.firebaseapp.com",
+    projectId: "angelpereziot-b1ce5",
+    storageBucket: "angelpereziot-b1ce5.appspot.com",
+    messagingSenderId: "996598139385",
+    appId: "1:996598139385:web:5c0d4ae0f69a78be161528"
 });
