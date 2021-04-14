@@ -6,8 +6,8 @@ class MiNav extends HTMLElement {
     this.innerHTML = /* html */
       `<a href="index.html">
         <span class="material-icons">
-       sports_esports
-       </span>
+          devices
+        </span>
         Dispositivo
       </a>
       <a href="dispositivo.html">
