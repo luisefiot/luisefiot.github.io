@@ -12,7 +12,7 @@ class MiNav extends HTMLElement {
       </a>
       <a href="dispositivo.html">
         <span class="material-icons">
-          devices
+        phone_android
         </span>
         Dispositivo simulado
       </a>
